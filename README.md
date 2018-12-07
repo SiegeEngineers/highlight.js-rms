@@ -13,3 +13,6 @@ language.
 
 See `index.html` for an example. Check the highlight.js documentation for more
 options.
+
+## Authors
+[HSZemi](https://github.com/hszemi) - Original Author
